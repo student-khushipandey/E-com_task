@@ -1,1 +1,1 @@
-# E-com_task
+# This is E-commerce project
